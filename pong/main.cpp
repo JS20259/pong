@@ -172,7 +172,7 @@ void CheckWalls()
         ProcessSound("bounce.wav");
     }
 }
-
+//dfgdfgdfg
 void ThroughBlocks(float NewX, float NewY) {
     for (int i = 0; i < length; i++) {
         for (int j = 0; j < high; j++) {
